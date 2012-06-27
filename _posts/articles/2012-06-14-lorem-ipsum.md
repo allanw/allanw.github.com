@@ -6,7 +6,10 @@ author_twitter: _mql
 author: Michael Aufreiter
 categories:
 - articles
+published: true
 ---
+
+This is some test stuff!!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper lacinia purus, id gravida tortor semper et. Mauris quis dolor at quam tincidunt lacinia quis quis nunc. In vulputate nibh at enim ullamcorper adipiscing. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -15,3 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper lacinia purus
 
 
 Sed facilisis felis in justo iaculis placerat. Donec venenatis suscipit metus congue sodales. Sed suscipit lorem sit amet ipsum condimentum vitae mattis dui lobortis. Etiam quis tortor nulla. Sed id quam non arcu eleifend tempor. Fusce tincidunt condimentum nisl, vitae laoreet lorem rhoncus eget. Nunc nec libero mi, vel posuere mauris. In neque arcu, rutrum sed consectetur at, lobortis nec mauris.
+
