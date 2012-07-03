@@ -8,3 +8,6 @@ exclude:
 
 prose:
   rooturl: "_posts"
+  metadata:
+    _posts/articles:
+      permalink: :title.html
