@@ -4,7 +4,6 @@ title: woot
 abstract: Prose Bootstrap is a minimal template intendet to get you started with Jekyll.
 author_twitter: _mql
 author: Michael Aufreiter
-permalink: /:year/:month/:day/:title.html
 categories:
 - blog
 published: true
@@ -12,4 +11,4 @@ published: true
 # How does it work?
 
 Enter Text in Markdown format.
-Test
+Test!
