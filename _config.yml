@@ -8,7 +8,7 @@ exclude:
 prose:
   rooturl: "_posts"
   metadata:
-    _posts/:
+    _posts/blog:
       permalink: /blog/:year/:month/:day/:title.html
     _posts/articles:
       permalink: /test/:year/:month/:day/:title.html
