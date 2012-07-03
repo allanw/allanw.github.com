@@ -1,7 +1,6 @@
 auto: true
 server: true
-permalink: /blog/:year/:month/:day/:title.html
-baseurl: ""
+baseurl: "allanw.co.uk"
 exclude:
 - .gitignore
 - README.md
