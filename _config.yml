@@ -1,6 +1,5 @@
 auto: true
 server: true
-permalink: /blog/:year/:month/:day/:title.html
 baseurl: ""
 exclude:
 - .gitignore
@@ -9,5 +8,7 @@ exclude:
 prose:
   rooturl: "_posts"
   metadata:
+    _posts:
+      permalink: /blog/:year/:month/:day/:title.html
     _posts/articles:
       permalink: /test/:year/:month/:day/:title.html
