@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/:title.html
+permalink: /about/
 published: true
 ---
 # How does it work?
