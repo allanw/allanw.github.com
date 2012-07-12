@@ -12,4 +12,8 @@ published: true
 
 This is a test blog post!! Innit
 
+    def test(foo):
+        print 'hi'
+
+
 
