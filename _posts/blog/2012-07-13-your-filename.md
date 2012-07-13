@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 permalink: /blog/index.html
 ---
 Blog stuff here
