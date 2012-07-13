@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="article-navigation">
+  <img src="https://twimg0-a.akamaihd.net/profile_images/1507148306/via_canary_wharf_21082011.JPG" alt="Photo of Al Whatmough" width="132" height="132">
+  Hi, I'm Al Whatmough. I'm a web developer based in London, UK. I like music, technology, and burritos.
+  
   {% for item in site.categories.blog limit:40 offset:0 %}
     <a href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
       {{item.title}}
