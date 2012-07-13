@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /blog/index.html
+permalink: _posts/blog/index.html
 ---
 # How does it work? {{site.baseurl}}
 
