@@ -263,6 +263,10 @@ body:before {/* thanks to Maleika (Kohoutec)*/
   list-style: none;
 }
 
+.article-navigation ul li {
+  line-height: 24px;
+}
+
 .article-navigation ul li::before{
   content:"\00BB \0020";
 }
