@@ -236,6 +236,7 @@ body:before {/* thanks to Maleika (Kohoutec)*/
   margin: 0 auto;
   margin-top: 30px;
   overflow: auto;
+  font-size: 16px;
 }
 
 .article-navigation .article-link {
