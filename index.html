@@ -8,8 +8,9 @@ layout: default
   {% for item in site.categories.blog limit:40 offset:0 %}
     <li>
       <a href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
-        {{item.title}} {{ item.date | date: "%B %d, %Y" }}
+        {{item.title}}
       </a>
+      <small>{{ item.date | date: "%B %d, %Y" }}</small>
     </li>
   {% endfor %}
   </ul>
