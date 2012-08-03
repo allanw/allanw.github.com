@@ -200,6 +200,10 @@ and your footer gets pushed down a bit more, creating vertical scroll bars in th
   font-size: 15px;
   }
 
+#footer .footer-content #footer-content-container1 {
+  float: left;
+}
+
 #footer a.help, #footer a.about{ 
   margin-right: 20px;
   padding-left: 20px;
