@@ -22,3 +22,8 @@ If your page lives under `http://username.github.com/sitename` your config.yml l
     exclude:
     - .gitignore
     - README.md
+    
+```python
+def hello_world():
+    return 'Hello world!'
+```
