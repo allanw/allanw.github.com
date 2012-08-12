@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 published: true
 categories:
 - blog
