@@ -1,6 +1,8 @@
 ---
 layout: default
 published: true
+categories:
+- blog
 ---
 
 http://stackoverflow.com/questions/8937905/how-to-pip-uninstall-with-virtualenv-on-heroku-cedar-stack
