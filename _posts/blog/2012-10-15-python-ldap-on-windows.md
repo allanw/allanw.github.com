@@ -2,7 +2,7 @@
 layout: default
 published: true
 categories:
- - blog
+- blog
 ---
 
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#python-ldap
