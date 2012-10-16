@@ -2,7 +2,7 @@
 layout: default
 published: true
 categories:
-- bloghttp://prose.io/#
+- blog
 ---
 
 Run C:\Users\blah\AppData\Local\Android\android-sdk\platform-tools\adb.exe logcat
