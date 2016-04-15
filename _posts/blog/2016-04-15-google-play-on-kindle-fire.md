@@ -19,6 +19,8 @@ Need to install Amazon drivers - https://developer.amazon.com/public/resources/d
 
 In C:/Users/{mynormalusername}/AppData/Local/Android/android-sdk/platform-tools, ran:
 
+N.B. I also added the above path to the Path environment variable
+
 adb devices
 
 Then ran:
