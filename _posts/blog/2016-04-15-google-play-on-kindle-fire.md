@@ -7,7 +7,7 @@ categories:
 
 Want to set up Google Play on Kindle Fire so apps can be installed from Play Store, read books on Google Play books etc.
 
-I did all of this on Windows 7 PC. XDA forums posts were very helpful.
+I did all of this on Windows 7 PC. XDA forums posts were very helpful (http://forum.xda-developers.com/amazon-fire/general/installing-google-framework-playstore-t3216122/post63101324#post63101324)
 
 I created a file under C:/Users/{adminaccount}/.android/adb_usb.ini containing the following line:
 
