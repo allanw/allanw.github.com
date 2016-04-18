@@ -28,3 +28,17 @@ Then ran:
 adb shell pm grant com.google.android.gms android.permission.INTERACT_ACROSS_USERS
 
 Downloaded Amazon-Fire-5th-Gen-Install-Play-Store.zip from http://rootjunkysdl.com/files/?dir=Amazon%20Fire%205th%20gen
+
+## To remove ads form lock screen, I had to root device
+
+- Downloaded AmazonFire5thGenSuperTool.zip from rootjunky: http://rootjunkysdl.com/files/?dir=Amazon%20Fire%205th%20gen/SuperTool
+
+- Unzipped .zip file and had to edit 1-Amazon-Fire-5th-gen.bat file - needed to remove files\ before adb.exe etc. on each line (did a search and replace in Sublime)
+
+- Follow steps to install Kingroot, then supersu.
+
+- Removed Kingroot
+
+- Ran bat file again and selected option 3 to disable OTA updates from Amazon
+
+- Removed supersu
