@@ -42,3 +42,9 @@ Downloaded Amazon-Fire-5th-Gen-Install-Play-Store.zip from http://rootjunkysdl.c
 - Ran bat file again and selected option 3 to disable OTA updates from Amazon
 
 - Removed supersu
+
+## Kindle Fire went into a reboot loop when on wifi - guess Amazon was trying to push an update (despite me having tried to disable OTA updates).
+
+- Had trouble getting Fire to be recognised when plugged into Windows PC in recovery mode. Wasn't able to follow restore/unroot a rooted Kindle fire YouTube video from Rootjunky.
+
+- Decided to just put Kindle Fire into recovery mode, then selected restore factory defaults. **Luckily**, this worked. Ads are still gone - but it's no longer rooted and I don't have Google Play store installed. Not really a big deal - I think I'll leave it this way.
